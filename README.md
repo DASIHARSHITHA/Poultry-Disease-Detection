@@ -1,0 +1,2 @@
+# Poultry-Disease-Detection
+Transfer Learning-Based Classification Of Poultry Diseases For Enhanced Health Management
